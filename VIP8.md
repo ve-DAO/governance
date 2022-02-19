@@ -50,7 +50,7 @@ Some projects have opted to self-manage; this is probably an effective route for
 
 ##### Strategy
 
-The treasury will have liquid assets as a result of our partnership with Solidex. The initial strategy for these:
+The treasury will have liquid assets as a result of our partnership with Solidex. The initial strategy for these (IMPORTANT: this is subject to change):
 
 * **SOLIDsex**. Initially this will be staked for SEX rewards (3.5% of all mints & downvote protection fees) and SOLID (10% of all Solid farmed). This can be eventually directed to the SOLIDsex/SOLID LP pool, as this has a hardcoded emissions vote from the protocol. SEX emissions would be max votelocked, whilst SOLID would be locked for SOLIDsex or, more likely, paired in the LP pool, dependent on the balance of rewards.
 * **SEX**. This is our voting power, allowing us to earn a share of the total fees and bribes earned by Solidex (mix of tokens), veSOLID expansion rewards (SOLIDsex), 5% of LP fees (SOLIDsex) and whitelisting fees (SOLIDsex). In order to earn these rewards and vote, SEX must be votelocked, with a max lock of 16 weeks. It would be our intention to max votelock our SEX allocation. Our emissions would be continually votelocked (SEX) and staked/LP (SOLIDsex), thus accelerating the flywheel.
